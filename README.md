@@ -4,5 +4,5 @@
 
 - 🔭 I’m a front-end enthusiast
 - 🌱 I’m currently learning Javascript
-- 🎮 I'm currently playing _王者荣耀_
+- 🎮 I'm currently playing _LOL Mobile_
 - 📫 How to reach me: 729049182@qq.com
